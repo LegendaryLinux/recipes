@@ -7,3 +7,6 @@
 ## Fudge Brownies
 - [English](./fudge_brownies_en.md)
 - [Español](./fudge_brownies_es.md)
+
+## Vanilla Cake
+- [English](./vanilla_cake_en.md)
