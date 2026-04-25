@@ -33,7 +33,7 @@
 - 0.25 tsp salt
 
 ### Directions
-1. Mix powdered subar and butter until combined
+1. Mix powdered sugar and butter until combined
 2. Mix vigorously for about one minute, until light and fluffy
 3. Add vanilla, 2 tbs milk, and salt
 4. Mix until fully incorporated
